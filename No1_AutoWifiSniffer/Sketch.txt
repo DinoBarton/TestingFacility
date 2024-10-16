@@ -1,0 +1,47 @@
+So I had this cheeky idea, what if instead of constantly connecting to wifis all the time why cant we just have a script constantly snif out wifi netowrks and connect to the automatically. 
+
+Requirements:
+    Must automatically connect to netowrks
+    Must always connect to the strongest netowrk
+    Must alert user if cannot find free network
+    Must filter through ones that require setup e.g. login or acknowledgement (advanced for now)
+
+Docs:
+
+1. did a search with chatgpt, just taking a look.
+2. using a bash script BIG UP LINUX!
+3. 
+
+PSUEDO CODE:
+    search netowrks
+    identify ones with out needing password
+    order from highest strength to lowest
+    choose highest
+    If the order changes always choose highest
+    If none alert user
+
+4. Dang it, I dont know nothing about bash. I cant just have GPT here to do it for me I wont learn, and bruh thats kinda lame.
+5. Ah i see learnt something here:
+    say we want to make functions we do this
+        variable() {
+            dsajkdljsaljdlksa
+        }
+    
+    and to make a loop we do:
+        while true; do 
+            ...
+        done
+
+    Oh and we close if statements with fi?!?!??!
+
+6. AHH im getting this its just commands thats all.
+7. lil confused theres stuff like, alert_user "LOL"
+    but say alert_user is a function would it just do e.g. echo "$1" "LOL" ??
+8. LOL i checked with chatGPT and it told me that it substitutes into th "$1" what a noob.
+9. One thing i was interested about was the use of loops I was wondering if it wa just a list of commands then surely a loop like that wouldnt make sense, now I realise that it does make sens as its only repeating the commands and stuff. 
+10. wow I ave learnt alot!
+11. one thing i should do is learn this nmcli thing. 
+12. I see its just a command for wifi all that, I wont go to deep, theres docs for this.
+13. Going to test soon - 
+
+AGALE AGALE! no estoy un cachondeo jajaja
