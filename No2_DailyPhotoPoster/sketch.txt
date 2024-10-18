@@ -1,0 +1,12 @@
+So was talking to someone about one of the idea videos, and he was talking to me about how he like the one where you have a random photo posted in your selected camera roll. Just wanted to see how that would play out.
+
+Requirements:
+    Must randomly reveal a photo.
+    Must e able to add photos
+
+1. Made a simple script and installed pillow
+2. Hmm interesting the python script seems to be bugging, Flask?
+e. Never used flask reading docs...
+4. Yikes i have no idea how to make this. Never used python with an UI before, could use HTML CSS JS and all that but, is that the way it should be done?
+5. Bruh im i making a web app fr? I guess im going to have to create a new repository
+

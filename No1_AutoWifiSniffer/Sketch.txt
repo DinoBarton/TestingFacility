@@ -42,6 +42,7 @@ PSUEDO CODE:
 10. wow I ave learnt alot!
 11. one thing i should do is learn this nmcli thing. 
 12. I see its just a command for wifi all that, I wont go to deep, theres docs for this.
-13. Going to test soon - 
+13. Going to test soon - Need to install linux first LOL
+14. going to try it out with windows first
 
 AGALE AGALE! no estoy un cachondeo jajaja
