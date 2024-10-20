@@ -9,4 +9,5 @@ Requirements:
 e. Never used flask reading docs...
 4. Yikes i have no idea how to make this. Never used python with an UI before, could use HTML CSS JS and all that but, is that the way it should be done?
 5. Bruh im i making a web app fr? I guess im going to have to create a new repository
+6. Lol i have to learn javascript
 

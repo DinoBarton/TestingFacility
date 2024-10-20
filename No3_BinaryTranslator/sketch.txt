@@ -1,0 +1,8 @@
+So I am bored. thinking about a cs class and I feel like making a script that translate binary to denary
+
+Requirements:
+    Must translate from binary to decimal
+
+1. Ight so BinDen.py was my best shot by my self
+2. checked wit chatgpt and it said i should use loops
+3. BinDen2 was second attempt. 
